@@ -6,4 +6,4 @@ draft = false
 
 # My Telegram bots
 
-- [LocalAIzed](https://localaized_bot)
+- [LocalAIzed](https://t.me/localaized_bot)
