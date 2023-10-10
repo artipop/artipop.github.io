@@ -7,3 +7,8 @@ draft = false
 # My Telegram bots
 
 - [LocalAIzed](https://t.me/localaized_bot)
+
+## Contact me
+
+- [Email](mailto:artem@whytry.garden)
+- [Telegram](https://t.me/artipop)
